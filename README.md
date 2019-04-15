@@ -22,3 +22,17 @@ Scraping the Data.
 Automated Data Collection with R: A Practical Guide to Web Scraping and Text
 Mining. John Wiley & Sons.
 ● Tutorials de youtube de python i Git.
+
+
+##Per executar el fitxer s'hauran de instal·lar les seguents llibreries:
+```
+pip install requests
+pip install csv
+pip install bs4
+pip install beautifulsoup4
+```
+
+##Per executar el script:
+```
+python scrappingSnowForecast.py
+```
